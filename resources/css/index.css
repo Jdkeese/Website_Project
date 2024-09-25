@@ -1,0 +1,42 @@
+/*Built by Joshua Keese 9/25/2024*/
+
+header {
+    background-image: url("../images/pattern.jpeg");
+}
+
+h1 {
+    font-family: Hellvectica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;   
+}
+
+#Brushes {
+    font-family: Hellvectica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+#Frames {
+    font-family: Hellvectica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+#Paint {
+    font-family: Hellvectica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+.price {
+    font-family: Hellvectica;
+    font-weight: bold;
+    color: blue;
+}
+
+ 
